@@ -1,0 +1,18 @@
+form
+{
+  width:300px;
+}
+
+form div
+{
+  text-align: right;
+}
+
+.card
+{
+  margin:1em;
+  padding:1em;
+  text-align: center;
+  width:400px;
+  background: #ccc;
+}
